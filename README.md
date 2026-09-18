@@ -19,6 +19,11 @@
 | 친해진 햄스터 | 60초안에 귀여워드립니다 | 나두혁 |
 | 비상 햄스터 | 60초안에 귀여워드립니다 | 나두혁 |
 | 귀여운 새끼 동물들 모음 | 충격적인 새끼들의 사이즈 | 이승진 |
+| 해양 동물들 모음 | 세계에서 가장 귀여운 해양 동물들 | 이승진 |
+| 골든 리트리버 | 우울한 골댕이 | 조건희 |
+| 앵무새 | 연기대상 앵무 | 조건희 |
+| 슈가 글라이더 | 피곤한 슈가 글라이더 | 조건희 |
+| 아기 곰 | 아기 곰과 호랑이 | 조건희 |
 
 ## 📁 폴더 구조
 
@@ -33,10 +38,15 @@ cute-animal/
     ├── Cute_animal-4.html
     ├── babo-animal.html
     ├── baby-animal.html
+    ├── bear.html
+    ├── golden.html
     ├── hamster001.html
     ├── hamster002.html
     ├── hamster003.html
-    └── hamster004.html
+    ├── hamster004.html
+    ├── marine-animal.html
+    ├── parrot.html
+    └── sugarglider.html
 ```
 
 ## 🚀 실행 방법
